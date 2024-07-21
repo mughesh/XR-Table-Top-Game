@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "XR Table Top game.sln"
+    "dotnet.defaultSolution": "XR-Table-Top-Game.sln"
 }
