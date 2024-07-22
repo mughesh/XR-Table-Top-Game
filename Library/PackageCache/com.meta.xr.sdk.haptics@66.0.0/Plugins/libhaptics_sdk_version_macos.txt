@@ -1,0 +1,1 @@
+Haptics Native SDK 1.0.0-beta.2 (048126b8300e+), built on 2024-03-14T14:37:43Z for macOS
